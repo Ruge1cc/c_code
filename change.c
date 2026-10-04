@@ -3,11 +3,11 @@ int main()
 
 {
 	int price=0;
-	printf("ÇëÊäÈë½ğ¶î\n");
+	printf("è¯·è¾“å…¥å°äº100çš„é‡‘é¢\n");
 	scanf("%d",&price);
 	int a=100-price;
 	
-	printf("Óà¶îÊÇ%d\n",a);
+	printf("å‰©ä½™é‡‘é¢ï¼š%d\n",a);
 	
 	system("pause");
 	return 0;
