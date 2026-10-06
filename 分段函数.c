@@ -12,7 +12,7 @@ int main()
     } else {
         f=3*x;
     }
-        printf("结果是：%d",f);
+        printf("鍑芥暟鍊间负%d",f);
         return 0;
 
 }
