@@ -4,7 +4,7 @@ int main()
    int x;
    int a;
    int ret=0;
-   printf("请输入一个正整数\n");
+   printf("璇疯緭鍏ヤ竴涓鏁存暟\n");
    scanf("%d",&x);
    while (x>0) {
       a=x%10;
